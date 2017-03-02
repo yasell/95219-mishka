@@ -10,8 +10,7 @@
     "test": "editorconfig-cli"
   },
   "editorconfig-cli": [
-    "*.html",
-    "*.json"
+    "*.html"
   ],
   "engines": {
     "node": "6.10"
